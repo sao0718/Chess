@@ -1,2 +1,2 @@
 # Chess
-A 3d chess board created in blender
+A 3d chess set created in blender
